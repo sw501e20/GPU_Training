@@ -28,7 +28,7 @@ print(f'\n\nShapes: x_train = {x_train.shape}, y_train = {y_train.shape}, '
 input_shape = x_train.shape[1:]
 num_classes = y_train.shape[1]
 mini_batch_size = 128
-num_epochs = 1#50
+num_epochs = 50
 
 def build_model(hp):
 
