@@ -1,0 +1,1104 @@
+[33m[Results summary][0m
+[36m |-Results in logs/tuner[0m
+[36m |-Showing 100 best trials[0m
+[36m |-Objective(name='val_accuracy', direction='max')[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 751cca86cb7ffe8443286bef2ac6a112[0m
+[36m |-Score: 0.9848889112472534[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 448[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 991dbb858ceb4cbcf92d3f06194a8523[0m
+[36m |-Score: 0.9831111133098602[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 480[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 3362ec4946bcc07b328680494a0ddee5[0m
+[36m |-Score: 0.9826666414737701[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: c91287f99b7add0a445a0cd3c2e89bd7[0m
+[36m |-Score: 0.9826666414737701[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: aa361b1ce43cfbed389025679faf884a[0m
+[36m |-Score: 0.9822222292423248[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 56fefdc1be98b3bc0145e67055f8ce0a[0m
+[36m |-Score: 0.9817777574062347[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: eddcee425f0a2ba5ac49cabb729ba1bf[0m
+[36m |-Score: 0.9808888733386993[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 256[0m
+[34m |-units_3: 192[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 064a7246234c6d915d9e14bde104d00e[0m
+[36m |-Score: 0.9804444313049316[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 56153c086779dfcded8f7bd749281082[0m
+[36m |-Score: 0.9799999892711639[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 128[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b256b6b2d8275b6c7bc1ce211bd52c60[0m
+[36m |-Score: 0.9799999892711639[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 410582c912a17b8f714dc6c28aea0e3e[0m
+[36m |-Score: 0.9799999892711639[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 512[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 833dfc5d3fe20725272bf38d8f6f29fc[0m
+[36m |-Score: 0.9799999892711639[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 512[0m
+[36m |-units_2: 480[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: ab844eeaef44f3a6981d09f88bea37dc[0m
+[36m |-Score: 0.9799999892711639[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 128[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0ea26655fc10690fea0f4d41ecadcada[0m
+[36m |-Score: 0.9795555472373962[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 320[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: d05054808b1b0c4c8332385d8d5a88f1[0m
+[36m |-Score: 0.9795555472373962[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 480[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 26a7a6c954b460a87900099ba622d20c[0m
+[36m |-Score: 0.9795555472373962[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 256[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 229a9b634a3bacaf8de6b963dfd29b90[0m
+[36m |-Score: 0.9791111052036285[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7e7c10e0ffffbecef18fad0622979c93[0m
+[36m |-Score: 0.9786666631698608[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 256[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: cbd375d80a25e9aaaf2cf95c1bd72384[0m
+[36m |-Score: 0.9786666631698608[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 256[0m
+[34m |-units_3: 352[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 81ea192f419b9178a7e663ecf0719cd2[0m
+[36m |-Score: 0.9782222211360931[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 128[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5c8ec1ee2b95caf524d55ddc0c9b5a79[0m
+[36m |-Score: 0.9782222211360931[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 256[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b25c4cce1d2cebb763c08d5a91ce4b79[0m
+[36m |-Score: 0.9777777791023254[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 480[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: d0342dbf8f9d19c77511d88c9e8865fe[0m
+[36m |-Score: 0.9777777791023254[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 512[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 56480d19b9970f8d66e3d185141b295f[0m
+[36m |-Score: 0.9777777791023254[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 448[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 892706cbfd1dbb9d3de70016983e3305[0m
+[36m |-Score: 0.9777777791023254[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e723eabe29a4187bfbf6d15f09a134fc[0m
+[36m |-Score: 0.9777777791023254[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 480[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6bacd2e4a69d1e0006115fda01d2550f[0m
+[36m |-Score: 0.9773333370685577[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 96[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e621a5bd5d0d964b9613aa7af8c0c96f[0m
+[36m |-Score: 0.97688889503479[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5bfc0e34fbfb395e99cc81af15fbd5f8[0m
+[36m |-Score: 0.97688889503479[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 384[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 961a88e633ce97cb3cf982a2ec46c898[0m
+[36m |-Score: 0.97688889503479[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 128[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: c1d0778b72f692627c39f7e93d28bd70[0m
+[36m |-Score: 0.97688889503479[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 352[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 256[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7f698c8910979146804b950084d4cb0a[0m
+[36m |-Score: 0.97688889503479[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 224[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: d3f11d63055fca0e592ab86e2b81c4d6[0m
+[36m |-Score: 0.9768888652324677[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0ebb38916f68ab8da506d8aaf5a4c592[0m
+[36m |-Score: 0.9764444530010223[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 128[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 137a76c426cbdf0724e4c5acb60c49bf[0m
+[36m |-Score: 0.9764444530010223[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 32[0m
+[36m |-units_2: 480[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: fbadef5304a319b186a65cfa58a429dd[0m
+[36m |-Score: 0.9764444530010223[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 1a55e801697341d8fe0e9911a2f49719[0m
+[36m |-Score: 0.9764444530010223[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 480[0m
+[34m |-units_3: 192[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: d76582f6f264f7d69062b8f72a19c6ea[0m
+[36m |-Score: 0.9764444530010223[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: a6512d42b870163b01f9e800c4b1af2d[0m
+[36m |-Score: 0.9764444530010223[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 512[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 37d8bf51f2833c85fbe8de9bbf7345bc[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: c5e02fbf325c86b440e46ef7d326213e[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 256[0m
+[34m |-units_3: 416[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: ea9594a6265a7a54f78f400b8ad2548d[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 512[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 9225da56bd9cd18c65b0be54197a6c7b[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 1[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 32[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 3552235255ac58797bf791b0ddb70518[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 480[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 1b710963e05ff3ef60dddc0cf16b35ba[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 448[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: c3dd1e4cab32aea50ed8dbd69e75475a[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 320[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 8886b69c77558bd2fb66828f205f921f[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: a902286da7c3ab1c7e7a58c59a1098a9[0m
+[36m |-Score: 0.9755555689334869[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 256[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5e8745ce48e9e459f4503395838065d0[0m
+[36m |-Score: 0.9755555689334869[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: a86b7077131b2a63316991e848306d21[0m
+[36m |-Score: 0.9755555689334869[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 96[0m
+[34m |-units_3: 192[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 9cad5a971fbedc5c3fd1ccd14ab87bd1[0m
+[36m |-Score: 0.9755555689334869[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7b1d136d8aa939f5155c02ca53ea75ea[0m
+[36m |-Score: 0.9755555689334869[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 352[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 160[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 05fb80c03c1272405b61939d116173f4[0m
+[36m |-Score: 0.9755555689334869[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 224[0m
+[36m |-units_2: 96[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0ff47763c1a22025764db231643d134c[0m
+[36m |-Score: 0.9751111268997192[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 352[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: f2d35ed0e8699d0fa5b754b921a5f5d8[0m
+[36m |-Score: 0.9751111268997192[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 128[0m
+[36m |-units_2: 384[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e9f7587076f12e4c0d014ca88810a77f[0m
+[36m |-Score: 0.9751111268997192[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 46749d1e60d0e73016eabf0260fe76fe[0m
+[36m |-Score: 0.9751110970973969[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 320[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 160[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 15dbd61191cec4d712995a480338c810[0m
+[36m |-Score: 0.9746666848659515[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 128[0m
+[36m |-units_2: 384[0m
+[34m |-units_3: 192[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: f53e55b1b0d0e30dbe95d50d1e90ac18[0m
+[36m |-Score: 0.9746666848659515[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 192[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7341046aa5030fb80dcb158904311a1a[0m
+[36m |-Score: 0.9746666848659515[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 160[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 1fa8c9ab2b059b8e15821ef23bccfa5a[0m
+[36m |-Score: 0.9746666848659515[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 34a4956fa0b9287077fd494009031d58[0m
+[36m |-Score: 0.9746666848659515[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 015d027b08601172c4843c31234fd6cd[0m
+[36m |-Score: 0.9746666848659515[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 480[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 35772081f300a2dcd0fc2991d9bd8df9[0m
+[36m |-Score: 0.9746666550636292[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6ae5ce2ce1201a89b49f71a90ae1be15[0m
+[36m |-Score: 0.9746666550636292[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 480[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: acc469c0be0c8ff14e57d5a63baecdf9[0m
+[36m |-Score: 0.9746666550636292[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 128[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e67602bec6d1f4afcc1642de8275fbc8[0m
+[36m |-Score: 0.9746666550636292[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 352[0m
+[34m |-units_3: 160[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: c605d2091d6f76028f545fac00c8cbde[0m
+[36m |-Score: 0.9742222428321838[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 416[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6d014ca9b95881c46c33f195d7ba8495[0m
+[36m |-Score: 0.9742222428321838[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 192[0m
+[36m |-units_2: 352[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e667f4790e069f683710a3f29f2c7cf8[0m
+[36m |-Score: 0.9742222130298615[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 95bd5d1872156e86aa88e3fc3aeca2c1[0m
+[36m |-Score: 0.9737778007984161[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 64[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6e4731c93ab8ae238bd937a439832642[0m
+[36m |-Score: 0.9737778007984161[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 352[0m
+[36m |-units_2: 160[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7b9e84ccfdc4c3f6e2c96917e3ceaf7a[0m
+[36m |-Score: 0.9737778007984161[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 288[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7f8d9c98a36b1a60ea8c2a4fbb7aa807[0m
+[36m |-Score: 0.9737778007984161[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 320[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6f00ed42a70d8ff2d99f52055f53a155[0m
+[36m |-Score: 0.9737777709960938[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: d9dfa0117cf4e31a35317dade329331e[0m
+[36m |-Score: 0.9733333587646484[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 3[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 192[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: baf6177f88762f4b712f7e423fb40eb4[0m
+[36m |-Score: 0.9733333587646484[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 224[0m
+[36m |-units_2: 512[0m
+[34m |-units_3: 480[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 76be89fd4b927e8ee520d3fb5f8ecdbb[0m
+[36m |-Score: 0.9733333587646484[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 512[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 448[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 2892659456646dc6135a3f4f58c7c9b3[0m
+[36m |-Score: 0.973333328962326[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 96[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: c946ba8f7561dc62701ef500900a5776[0m
+[36m |-Score: 0.9728888869285583[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 352[0m
+[36m |-units_2: 448[0m
+[34m |-units_3: 352[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 64c9ba84247ec385144481711abc35b3[0m
+[36m |-Score: 0.9724444448947906[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 352[0m
+[36m |-units_2: 352[0m
+[34m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0536ddc51e236fd1cb317058350dda64[0m
+[36m |-Score: 0.9724444448947906[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 320[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 13085d92c204f0f523635d5fc64331f6[0m
+[36m |-Score: 0.9724444448947906[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 512[0m
+[36m |-units_2: 512[0m
+[34m |-units_3: 352[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e73153b41b3a1dd2d07e5a1ae6a59c71[0m
+[36m |-Score: 0.9724444448947906[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 1[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5867fb1bbf38d25f9b19d692983631a1[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 352[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5f58accf9467859b64b4e38be9e9bfda[0m
+[36m |-Score: 0.972000002861023[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 1[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 128[0m
+[34m |-units_3: 512[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: cf0c34ea4feb14aef0ac58b733bca6ca[0m
+[36m |-Score: 0.9719999730587006[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 320[0m
+[36m |-units_2: 352[0m
+[34m |-units_3: 160[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: a81f9826a87ac6a70f647ad343af5a12[0m
+[36m |-Score: 0.9715555608272552[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 32[0m
+[36m |-units_2: 64[0m
+[34m |-units_3: 288[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e6de10e99529ef5eefa79928699483df[0m
+[36m |-Score: 0.9715555310249329[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 3[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 192[0m
+[36m |-units_2: 128[0m
+[34m |-units_3: 224[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 7e6576d01e06f61ebceee11d5c2ed44a[0m
+[36m |-Score: 0.9711111187934875[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 320[0m
+[34m |-units_3: 416[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: a5698a4d390b65d7fc59354b67127ade[0m
+[36m |-Score: 0.9711110889911652[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 96[0m
+[36m |-units_2: 416[0m
+[34m |-units_3: 192[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 40107e3473e7ceeb3a89aeea6553b5d4[0m
+[36m |-Score: 0.9711110889911652[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 3[0m
+[34m |-units_1: 480[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 60dcd286b7a807614ad310283f000c9e[0m
+[36m |-Score: 0.9706666469573975[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 128[0m
+[34m |-units_3: 448[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 34a6f525e82f3c89b9b38bf74776e944[0m
+[36m |-Score: 0.9706666469573975[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 288[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: da1aa4d787d177b50be5c98faa4e3790[0m
+[36m |-Score: 0.9702222049236298[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 256[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 128[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 809de12cc2a265e79889591f114de329[0m
+[36m |-Score: 0.9702222049236298[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 7[0m
+[34m |-units_1: 448[0m
+[36m |-units_2: 224[0m
+[34m |-units_3: 96[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e5d932b539c1cc359bd884f41e2e5514[0m
+[36m |-Score: 0.9697777628898621[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 5[0m
+[36m |-kernel_3: 9[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 448[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: df822f5d9411cfe99aa36970dc117972[0m
+[36m |-Score: 0.9697777628898621[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 7[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 416[0m
+[36m |-units_2: 32[0m
+[34m |-units_3: 384[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 30e293bf3c1a89eda20b0b197efc58d6[0m
+[36m |-Score: 0.9693333208560944[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 9[0m
+[34m |-kernel_2: 7[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 384[0m
+[36m |-units_2: 192[0m
+[34m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 533a7e5842322674b829bfa49307157d[0m
+[36m |-Score: 0.9688888788223267[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-kernel_1: 5[0m
+[34m |-kernel_2: 9[0m
+[36m |-kernel_3: 5[0m
+[34m |-units_1: 160[0m
+[36m |-units_2: 96[0m
+[34m |-units_3: 384[0m

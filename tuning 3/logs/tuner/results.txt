@@ -1,0 +1,404 @@
+[33m[Results summary][0m
+[36m |-Results in logs/tuner[0m
+[36m |-Showing 50 best trials[0m
+[36m |-Objective(name='val_accuracy', direction='max')[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 4bc28e42b353c93e25a8663eab8a3eb3[0m
+[36m |-Score: 0.9786666631698608[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 64[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 080cd093ac8bb2509a1e405dc15d2371[0m
+[36m |-Score: 0.9777777791023254[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 56[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 48[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: e3d9bebbaa04ac35758ae506008b44c2[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 64[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 8783fba801b3e9de6201a9c39db5c8aa[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 8b505a91eb6273a375f1eb1feaf6026e[0m
+[36m |-Score: 0.9760000109672546[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 24[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b89cca85a9a9cc34a8887ca09870d821[0m
+[36m |-Score: 0.9751111268997192[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 32[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 48[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 631f9bd6960b75de77a4e3a97ff1e8a7[0m
+[36m |-Score: 0.9742222428321838[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 40[0m
+[34m |-units_2: 40[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: f022ab1adc3d468b1b54a2571d00fb27[0m
+[36m |-Score: 0.9742222428321838[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 64[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 24ef5b6346388abc3a2b4d90e90f3059[0m
+[36m |-Score: 0.9742222428321838[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 40[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 11d7b3e9e7d5dddae2291a6b19cdd6ed[0m
+[36m |-Score: 0.9733333587646484[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 40[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: bb1de15cdc5293f0c626dc07d51f96f5[0m
+[36m |-Score: 0.9733333587646484[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 64[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 68fe9157cfa27f3138f63e24124bbf42[0m
+[36m |-Score: 0.9733333587646484[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 40[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 8[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 74ff825b0a35fce08d30f8c6cc72e4ec[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 12a6deb61f003bd88adb83141daf0621[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 64[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 354167a18d42fd07bfbafc598f6b07a2[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 56[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: dd66fbe101aff629f6e0469c8c8ada11[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 32[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 48[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0c7e016a6d91180588e10e2b7c8ed199[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 56[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 32048be4d46ac662a291cb67151be30f[0m
+[36m |-Score: 0.9724444150924683[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 05e4f373f8112eb884d37d29e6729107[0m
+[36m |-Score: 0.9715555310249329[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 40[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b768072b5fa2e9f18bb3b7f626fbf0d6[0m
+[36m |-Score: 0.9706666469573975[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b01834cf5aeab9bfcfc6abfc72ed580d[0m
+[36m |-Score: 0.9706666469573975[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 40[0m
+[34m |-units_2: 16[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: ed6adbcfec576fad775bcba25834ac10[0m
+[36m |-Score: 0.9706666469573975[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 32[0m
+[34m |-units_2: 40[0m
+[36m |-units_3: 24[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b2e7b2aa489f25e05a5844634c3dffb2[0m
+[36m |-Score: 0.9697777628898621[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 40[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: aa3bf7b9e7b16348ce3f951563a60eb6[0m
+[36m |-Score: 0.9688888788223267[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 32[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 24[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b8dafaceeef5605d67aaccf90c37b4f3[0m
+[36m |-Score: 0.9679999947547913[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 16[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 48[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b2c677242d31956c2bc5d72e6fabfcd3[0m
+[36m |-Score: 0.9679999947547913[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: f9705caefbb668196e18c983ca6b845b[0m
+[36m |-Score: 0.9671111106872559[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 32[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 2fa2c05f6f709d28eaae63acccd98009[0m
+[36m |-Score: 0.9671111106872559[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 16[0m
+[36m |-units_3: 24[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: b9ecf50c97f863449727211bdeb88edf[0m
+[36m |-Score: 0.9662222266197205[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 40[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0667c465306f90e49803d10a0db97bb0[0m
+[36m |-Score: 0.9653333425521851[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 32[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 1c77e2f1c3a61a505a9b16a919b8f0ba[0m
+[36m |-Score: 0.9653333425521851[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 32[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: d2c6d7c7848fb2e65d05024eb5ce919e[0m
+[36m |-Score: 0.9653333425521851[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 48[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5f2aeab79e1efd73caeb10005485d5fa[0m
+[36m |-Score: 0.9653333425521851[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 3b9c4cb0f8cd9f874ab0dee2c19336dc[0m
+[36m |-Score: 0.9635555744171143[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 16[0m
+[34m |-units_2: 40[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6407a544bd33a6e9adf352a7414393dd[0m
+[36m |-Score: 0.9626666903495789[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 24[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 488a2f693d631d18ee729f844529183b[0m
+[36m |-Score: 0.9608888626098633[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 8deae0ea30ffdd984f64f4bcbd603ce2[0m
+[36m |-Score: 0.9591110944747925[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 16[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 90ebcaf78c44820a921b400082f178c7[0m
+[36m |-Score: 0.9582222104072571[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 32[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 6d9f916d79c1da046fdfe07d9d095362[0m
+[36m |-Score: 0.9555555582046509[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 8[0m
+[34m |-units_2: 64[0m
+[36m |-units_3: 64[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 3f1c798e198363bc1287766a588cb3b5[0m
+[36m |-Score: 0.9555555582046509[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 16[0m
+[36m |-units_3: 40[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 381d2f2fd4a26703748b528706f9a042[0m
+[36m |-Score: 0.9546666741371155[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 16[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 16[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 45f4d802abc2c8812ebdc24d2cb106f2[0m
+[36m |-Score: 0.9520000219345093[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 48[0m
+[34m |-units_2: 16[0m
+[36m |-units_3: 8[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 0d9baed98ef79fb1eb0cedb58a19ac3f[0m
+[36m |-Score: 0.9493333101272583[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 16[0m
+[36m |-units_3: 48[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 900df6dbf503a4a75274d09f47bbfe82[0m
+[36m |-Score: 0.9440000057220459[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 8[0m
+[34m |-units_2: 56[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 415cdc5ef22fa6e01418e4901c33895b[0m
+[36m |-Score: 0.9368888735771179[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 16[0m
+[34m |-units_2: 8[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 426cf5dce19eb3b120e0d0ff62cb2fa4[0m
+[36m |-Score: 0.9253333210945129[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 24[0m
+[34m |-units_2: 8[0m
+[36m |-units_3: 8[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: bf5b9a24f5d87af8e1887778c8c084a0[0m
+[36m |-Score: 0.9191111326217651[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 8[0m
+[34m |-units_2: 16[0m
+[36m |-units_3: 56[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 8490663b8e710e84a11b271217e6be98[0m
+[36m |-Score: 0.9155555367469788[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 8[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 8[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: a648c554d5ab00caf91cfbbc1d5ce82c[0m
+[36m |-Score: 0.9120000004768372[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 8[0m
+[34m |-units_2: 48[0m
+[36m |-units_3: 24[0m
+[33m[Trial summary][0m
+[36m |-Trial ID: 5fc1d98ccae16b2f92f886aced392c8c[0m
+[36m |-Score: 0.8942221999168396[0m
+[36m |-Best step: 0[0m
+[2m[35m > Hyperparameters:[0m
+[36m |-units_1: 8[0m
+[34m |-units_2: 24[0m
+[36m |-units_3: 16[0m
