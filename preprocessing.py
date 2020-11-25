@@ -14,7 +14,7 @@ num_timesteps = 100
 aggregation = 1
 
 # Input files:
-csv_filename = 'AllData.csv'
+csv_filename = 'armband_data.csv'
 
 # Output files:
 output_folder = 'fcn_rep/'
