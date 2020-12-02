@@ -1,5 +1,0 @@
-unit size: 48 48 40
-kernel size: 1
-
-Training: 1, 2, 4, 5
-Validation: 3
