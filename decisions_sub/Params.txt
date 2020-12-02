@@ -1,0 +1,8 @@
+model = KNeighborsClassifier(n_neighbors = 5)
+model = RandomForestClassifier(n_estimators = 50)#, verbose = 2) 
+model = GradientBoostingClassifier(n_estimators = 50, random_state = 42)
+model = LinearSVC()
+model = SVC(gamma='auto')
+model = LogisticRegression()
+model = DecisionTreeClassifier()
+model = GaussianNB()

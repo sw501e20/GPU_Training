@@ -1,0 +1,16 @@
+Test set accuracy:
+                   precision    recall  f1-score   support
+
+        left turn       0.00      0.00      0.00       496
+       right turn       0.17      0.25      0.21       502
+             stop       0.89      0.25      0.39       505
+        follow me       0.40      0.97      0.56       517
+      single file       0.07      0.01      0.02       516
+      double file       0.44      0.32      0.37       524
+ refreshment stop       0.29      0.93      0.45       491
+hazard in roadway       0.00      0.00      0.00       487
+             fuel       0.00      0.00      0.00       494
+
+         accuracy                           0.31      4532
+        macro avg       0.25      0.30      0.22      4532
+     weighted avg       0.25      0.31      0.22      4532
